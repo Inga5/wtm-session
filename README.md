@@ -8,7 +8,7 @@ use edit file for notes
 markdown
 
 *italic*
-++bodl++
+++bold++
 Normal Text
 
 - List
